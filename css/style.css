@@ -1,0 +1,10 @@
+.smooth {
+	transition: 0.5s;
+}
+
+.blur:hover {
+	transition: 0.5s;
+	-webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    filter: blur(2px);
+}
