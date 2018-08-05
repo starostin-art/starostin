@@ -10,7 +10,6 @@ function send_email() {
     $message = $name . " (" . $smedia . ") написал(а) следующее:" . "\n\n" . $_POST['Message'];
     $headers = "От:" . $from;
     mail($to,$subject,$message,$headers);
-    header("Refresh:0");
   }
 }
 ?>
