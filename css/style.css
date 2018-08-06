@@ -1,6 +1,8 @@
 
 body {
 	background-image: url("bg.jpg");
+	background-repeat: repeat-y;
+	background-repeat: repeat-x;
 }
 
 .smooth {
