@@ -1,4 +1,7 @@
 
+body {
+	background-image: url("bg.jpg");
+}
 
 .smooth {
 	transition: 0.5s;
