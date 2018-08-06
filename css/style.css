@@ -9,6 +9,10 @@ body {
 	transition: 0.5s;
 }
 
+.ll:hover {
+    background-color: #cddc39;
+}
+
 .blur:hover {
 	transition: 0.5s;
 	-webkit-filter: blur(2px);
