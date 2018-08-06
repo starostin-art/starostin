@@ -64,7 +64,11 @@ box-shadow: 0px 0px 17px -1px rgba(0,0,0,0.75);
 }
 
 .hanim2:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     transition: 0.5s;
+}
+
+.centerblock {
+    margin: auto;
 }
